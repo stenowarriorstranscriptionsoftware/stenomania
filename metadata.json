@@ -1,0 +1,5 @@
+{
+  "name": "Stenomania Dictations with Practice Length",
+  "description": "An advanced transcription platform for stenography practice, now with the ability to practice specific portions of a dictation, such as the first or last N words, to target specific areas of improvement.",
+  "requestFramePermissions": []
+}
